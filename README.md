@@ -16,7 +16,11 @@ I'm a passionate software engineer from Tema - Ghana who loves to work on exciti
 - **Tools**: Vscode, Android Studio
 ## 📈 GitHub Stats
 
-!Your GitHub stats
+<div align="center">
+  <picture align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Qharny&show_icons=true&theme=radical" />
+</picture>
+</div>
 
 ## 📫 How to reach me
 
@@ -28,9 +32,6 @@ Did you know? The first computer programmer was a woman. Ada Lovelace wrote the 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Qharny&theme=carbonfox" height="220" alt="streak graph" />
-  <picture align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=Qharny&show_icons=true&theme=radical" />
-</picture>
 </div><br>
 
 <div align="center"> 
