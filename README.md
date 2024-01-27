@@ -1,4 +1,4 @@
-<div align="center"># Hello, I'm Manasseh Kabutey Kwame 👋</div>
+# Hello, I'm Manasseh Kabutey Kwame 👋
 
 ## 🚀 About Me
 
