@@ -1,8 +1,4 @@
-# Hello, I'm Manasseh Kabutey Kwame 👋
-
-!GitHub followers
-!GitHub User's stars
-!Twitter Follow
+<div align="center"># Hello, I'm Manasseh Kabutey Kwame 👋</div>
 
 ## 🚀 About Me
 
@@ -24,7 +20,7 @@ I'm a passionate software engineer from Tema - Ghana who loves to work on exciti
 
 ## 📫 How to reach me
 
-You can reach me at cannycc1020@gmail.com || kabuteymanasseh5@gmail.com or on https://wa.me/+233202334725.
+You can reach me at kabuteymanasseh5@gmail.com or on https://wa.me/+233202334725.
 
 ## 🎉 Fun fact
 
