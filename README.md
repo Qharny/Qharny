@@ -26,3 +26,14 @@ You can reach me at cannycc1020@gmail.com || kabuteymanasseh5@gmail.com or on ht
 
 Did you know? The first computer programmer was a woman. Ada Lovelace wrote the world's first machine algorithm for an early computing machine that existed only on paper in the mid-1800s.
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Qharny&theme=carbonfox" height="220" alt="streak graph" />
+  <picture align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Qhaa=rny&show_icons=true&theme=radical" />
+</picture>
+</div><br>
+
+<div align="center"> 
+  
+</div>
+
