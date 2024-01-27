@@ -34,7 +34,12 @@ Did you know? The first computer programmer was a woman. Ada Lovelace wrote the 
   <img src="https://streak-stats.demolab.com?user=Qharny&theme=carbonfox" height="220" alt="streak graph" />
 </div><br>
 
-<div align="center"> 
-  
+<div align="center">
+  <p align="center">
+  <a href=https://www.linkedin.com/in/manasseh-kabutey-58887123b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kabutey Manasseh" height="20" width="20" /></a>
+  <a href="https://https://twitter.com/mr_kabuteyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mr_Kabuteyy" height="20" width="20" /></a>
+  <a href="https://qharny.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Manasseh" height="20" width="20" /></a>
+  <a href="https://https://www.instagram.com/mr_kabuteyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mr_Kabuteyy" height="20" width="20" /></a>
+</p>
 </div>
 
