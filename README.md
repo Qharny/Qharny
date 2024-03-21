@@ -20,7 +20,7 @@ I'm a passionate software engineer from Tema - Ghana who loves to work on exciti
 
 <div align="center">
   <picture align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qharny&hide_progress=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qharny&hide_progress=true&theme=dark&langs_count=10&layout=compact" />
 </picture>
 </div>
 
