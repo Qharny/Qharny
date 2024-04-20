@@ -24,6 +24,15 @@ I'm a passionate software engineer from Tema - Ghana who loves to work on exciti
 </picture>
 </div>
 
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/qharny">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31f324sdbnvyvcll4fxngqjcv3e4&unique={true|1|on|yes}" alt="Spotify recently played"  />
+  </a>
+
+</div>
+
 
 ## 📫 How to reach me
 
