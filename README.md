@@ -1,4 +1,4 @@
-![image](https://github.com/Qharny/Qharny/assets/107959408/cb3850ff-739f-4146-a1ee-84d482e18351)# Hello, I'm Manasseh Kabutey Kwame 👋
+ Hello, I'm Manasseh Kabutey Kwame 👋
 
 ## 🚀 About Me
 
