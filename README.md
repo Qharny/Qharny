@@ -1,4 +1,4 @@
-# Hello, I'm Manasseh Kabutey Kwame 👋
+![image](https://github.com/Qharny/Qharny/assets/107959408/cb3850ff-739f-4146-a1ee-84d482e18351)# Hello, I'm Manasseh Kabutey Kwame 👋
 
 ## 🚀 About Me
 
@@ -24,6 +24,8 @@ I'm a passionate software engineer from Tema - Ghana who loves to work on exciti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
