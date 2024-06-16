@@ -59,6 +59,11 @@ I'm a passionate software engineer from Tema - Ghana who loves to work on exciti
 </picture>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Qharny&theme=carbonfox" height="220" alt="streak graph" />
+</div><br>
+
+--
 
 ## 📫 How to reach me
 
@@ -68,9 +73,7 @@ You can reach me at kabuteymanasseh5@gmail.com or on https://wa.me/+233202334725
 
 Did you know? The first computer programmer was a woman. Ada Lovelace wrote the world's first machine algorithm for an early computing machine that existed only on paper in the mid-1800s.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Qharny&theme=carbonfox" height="220" alt="streak graph" />
-</div><br>
+
 
 <div align="center">
   <p align="center">
