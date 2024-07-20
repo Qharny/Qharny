@@ -46,6 +46,9 @@ I'm a passionate software engineer from Tema - Ghana who loves to work on exciti
 </div>
 
 ##
+<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qharny" alt="qharny" /></a> </p>
+<br/>
 ## 📈 GitHub Stats
 
 <div align="center">
