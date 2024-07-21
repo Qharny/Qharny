@@ -1,5 +1,4 @@
-
- Hello, I'm Manasseh Kabutey Kwame 👋
+Hello, I'm Manasseh Kabutey Kwame 👋
 
 ## 🚀 About Me
 
