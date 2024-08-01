@@ -9,7 +9,7 @@ I'm a passionate software engineer from Tema - Ghana who loves to work on exciti
 - **Languages**: Dart, Kotlin, Php, HTML/CSS, Javascript
 - **Frameworks/Libraries**: Flutter, Angular
 - **Databases**: Mysql
-- **Tools**: Vscode, Android Studio
+- **Tools**: Vscode, Android Studio, firebase
   ##
   
   <div align="left">
@@ -68,7 +68,6 @@ I'm a passionate software engineer from Tema - Ghana who loves to work on exciti
   <img src="https://streak-stats.demolab.com?user=Qharny&theme=carbonfox" height="220" alt="streak graph" />
 </div><br>
 
---
 
 ## 📫 How to reach me
 
