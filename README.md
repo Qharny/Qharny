@@ -90,7 +90,7 @@ I'm a passionate software engineer specializing in mobile and web development. W
 
 ## 🌱 Always Learning
 
-The tech world is constantly evolving, and so am I. I'm always excited to learn new technologies and improve my skills. Currently, I'm exploring [mention any new tech or skill you're learning].
+The tech world is constantly evolving, and so am I. I'm always excited to learn new technologies and improve my skills. Currently, I'm exploring everything tech.
 
 ## 📫 Let's Connect!
 
