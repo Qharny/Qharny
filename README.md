@@ -1,49 +1,58 @@
-Hello, I'm Manasseh Kabutey Kwame 👋
+# 👋 Hi there! I'm Manasseh Kabutey Kwame
 
-## 🚀 About Me
+I'm a passionate software engineer specializing in mobile and web development. With a diverse skill set spanning multiple technologies, I create robust and user-friendly applications for both mobile devices and the web.
 
-I'm a passionate software engineer from Tema - Ghana who loves to work on exciting and innovative projects. I specialize in Mobile development and Web development.
+## 🚀 Skills
 
-## 🛠️ Skills
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Tailwind CSS
+- Node.js
 
-- **Languages**: Dart, Kotlin, Php, HTML/CSS, Javascript
-- **Frameworks/Libraries**: Flutter, Angular
-- **Databases**: Mysql
-- **Tools**: Vscode, Android Studio, firebase
-  ##
-  
-  <div align="left">
+### Mobile Development
+- Flutter
+- Dart
+- Kotlin
+- Java
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+### Databases
+- MySQL
+- MongoDB
+- Firebase
+##
+
+ <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind logo"  />
+    <img width="12" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo"  />
 </div>
+
 
 ##
 <br/>
@@ -69,22 +78,36 @@ I'm a passionate software engineer from Tema - Ghana who loves to work on exciti
 </div><br>
 
 
-## 📫 How to reach me
 
-You can reach me at kabuteymanasseh5@gmail.com or on https://wa.me/+233202334725.
+## 💼 What I do
 
+- Develop responsive and interactive web applications
+- Create cross-platform mobile apps using Flutter
+- Build native Android applications with Kotlin and Java
+- Design and implement RESTful APIs
+- Work with both SQL and NoSQL databases
+- Utilize cloud services like Firebase for backend solutions
+
+## 🌱 Always Learning
+
+The tech world is constantly evolving, and so am I. I'm always excited to learn new technologies and improve my skills. Currently, I'm exploring [mention any new tech or skill you're learning].
+
+## 📫 Let's Connect!
+
+You can reach me at kabuteymanasseh5@gmail.com
+
+<div align="center">
+  <p align="center">
+    <a href=https://www.linkedin.com/in/manasseh-kabutey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kabutey Manasseh" height="20" width="20" /></a>
+    <a href="https://https://twitter.com/mr_kabuteyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mr_Kabuteyy" height="20" width="20" /></a>
+    <a href="https://qharny.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Manasseh" height="20" width="20" /></a>
+    <a href="https://https://www.instagram.com/mr_kabuteyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mr_Kabuteyy" height="20" width="20" /></a>
+  </p>
+</div>
+ 
 ## 🎉 Fun fact
 
 Did you know? The first computer programmer was a woman. Ada Lovelace wrote the world's first machine algorithm for an early computing machine that existed only on paper in the mid-1800s.
 
-
-
-<div align="center">
-  <p align="center">
-  <a href=https://www.linkedin.com/in/manasseh-kabutey-58887123b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kabutey Manasseh" height="20" width="20" /></a>
-  <a href="https://https://twitter.com/mr_kabuteyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mr_Kabuteyy" height="20" width="20" /></a>
-  <a href="https://qharny.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Manasseh" height="20" width="20" /></a>
-  <a href="https://https://www.instagram.com/mr_kabuteyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mr_Kabuteyy" height="20" width="20" /></a>
-</p>
-</div>
-
+##
+Feel free to check out my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about tech!
