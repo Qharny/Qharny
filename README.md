@@ -61,17 +61,17 @@ I'm a passionate software engineer specializing in mobile and web development. W
 ##
 ## GitHub Stats 📈
 
-<div align="center">
+<!-- <div align="center"> -->
   <picture align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=Qharny&show_icons=true&theme=radical" />
 </picture>
-</div>
+<!-- </div> -->
 
-<div align="center">
+<!--<div align="center">-->
   <picture align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qharny&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </picture>
-</div>
+<!-- </div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Qharny&theme=carbonfox" height="220" alt="streak graph" />
