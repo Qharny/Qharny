@@ -8,6 +8,7 @@ I'm a passionate software engineer specializing in mobile and web development. W
 - HTML
 - CSS
 - JavaScript
+- NextJs
 - PHP
 - Tailwind CSS
 - Node.js
