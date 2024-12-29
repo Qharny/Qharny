@@ -83,6 +83,9 @@ I'm a passionate software engineer specializing in mobile and web development. W
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Qharny&theme=carbonfox" height="220" alt="streak graph" />
 </div><br>
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/qharny/qharny/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Qharny" />
+</p>
 
 
 
