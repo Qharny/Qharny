@@ -59,8 +59,8 @@ I'm a passionate software engineer specializing in mobile and web development. W
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="supabase" />
-     <img width="12" /> 
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" height="40" alt="github logo"  />
+    <img width="12" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 
