@@ -20,6 +20,7 @@ I'm a passionate software engineer specializing in mobile and web development. W
 - Kotlin
 - Java
 
+
 ### Databases
 - MySQL
 - MongoDB
