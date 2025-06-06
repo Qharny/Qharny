@@ -3,7 +3,7 @@
 I'm a passionate software engineer specializing in mobile and web development. With a diverse skill set spanning multiple technologies, I create robust and user-friendly applications for both mobile devices and the web.
 <hr>
 
-## 🚀 Skills
+## 🚀 Skills 
 
 ### Web Development
 - HTML
