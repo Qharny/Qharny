@@ -14,6 +14,7 @@ I'm a passionate software engineer specializing in mobile and web development. W
 - Tailwind CSS
 - Node.js 
 
+
 ### Mobile Development
 - Flutter
 - Dart
