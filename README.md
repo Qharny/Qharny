@@ -81,7 +81,7 @@ I'm a passionate software engineer specializing in mobile and web development. W
 
 <!--<div align="center">-->
   <picture align="center" >
-<!--   <img src="https://camo.githubusercontent.com/938a69cb8054160ed1cb3526fa8063a108a55a3ba2e02c83bb78030488137c31/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d716861726e79266c6f63616c653d656e26686964655f7469746c653d66616c7365266c61796f75743d636f6d7061637426636172645f77696474683d333230266c616e67735f636f756e743d35267468656d653d6461726b26686964655f626f726465723d66616c7365" /> -->
+  <img src="https://camo.githubusercontent.com/938a69cb8054160ed1cb3526fa8063a108a55a3ba2e02c83bb78030488137c31/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d716861726e79266c6f63616c653d656e26686964655f7469746c653d66616c7365266c61796f75743d636f6d7061637426636172645f77696474683d333230266c616e67735f636f756e743d35267468656d653d6461726b26686964655f626f726465723d66616c7365" />
 </picture>
 <!-- </div> -->
 
@@ -113,7 +113,7 @@ You can reach me at kabuteymanasseh5@gmail.com
   <p align="center">
     <a href=https://www.linkedin.com/in/manasseh-kabutey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kabutey Manasseh" height="20" width="20" /></a>
     <a href="https://https://twitter.com/mr_kabuteyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mr_Kabuteyy" height="20" width="20" /></a>
-    <a href="https://qharny.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Manasseh" height="20" width="20" /></a>
+    <a href="https://manassehkabutey.vercel.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Manasseh" height="20" width="20" /></a>
     <a href="https://https://www.instagram.com/mr_kabuteyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mr_Kabuteyy" height="20" width="20" /></a>
   </p>
 </div>
