@@ -26,7 +26,7 @@ I'm a passionate software engineer specializing in mobile and web development. W
 - MySQL
 - MongoDB
 - Firebase
-##
+
 
  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
