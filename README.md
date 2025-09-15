@@ -88,7 +88,7 @@ I'm a passionate software engineer specializing in mobile and web development. W
 <!-- </div> -->
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Qharny&theme=light" height="220" alt="streak graph" />
+<!--   <img src="https://streak-stats.demolab.com?user=Qharny&theme=light" height="220" alt="streak graph" /> -->
  <img src="https://camo.githubusercontent.com/baaf8dda33c53fac818827eed54c615a038dda38010cbdb2c8c4723fd9d34a50/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d716861726e79266c6f63616c653d656e266d6f64653d6461696c79267468656d653d64726163756c6126686964655f626f726465723d66616c736526626f726465725f7261646975733d35" height="220" alt="streak graph" />
 </div>
 <hr>
