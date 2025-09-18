@@ -3,7 +3,7 @@
 I'm a passionate software engineer specializing in mobile and web development. With a diverse skill set spanning multiple technologies, I create robust and user-friendly applications for both mobile devices and the web.
 <hr> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qharny&label=Profile%20views&color=0e75b6&style=flat" alt="Qharny" /> </p>
-<hr>
+<hr> 
 
 ## 🚀 Skills  
 
