@@ -47,6 +47,24 @@ When I’m not coding, I’m probably improvising on the saxophone 🎷 or learn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub" />
 </div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,linux,figma,postman,arduino" />
+</p>
+<p align="center">
+  <!-- Cloud Platforms & Deployment -->
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,firebase,supabase" />
+  <img width="12" />
+
+  <!-- Additional Tools (custom icons where unavailable on skillicons.dev) -->
+  <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" height="40" alt="Cloudinary logo" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/98495594?s=200&v=4" height="40" alt="Convex logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+</p>
+
 
 ---
 
