@@ -11,6 +11,12 @@ When I’m not coding, I’m probably improvising on the saxophone 🎷 or learn
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=qharny&label=Profile%20views&color=0e75b6&style=flat" alt="Qharny" /> 
 </p>
+<p align="center">
+  <img src="https://user-badge.committers.top/ghana_private/Qharny.svg" alt="ranking" /> ..
+  <img src="https://user-badge.committers.top/ghana_public/Qharny.svg" alt="ranking" /> ..
+  <img src="https://user-badge.committers.top/ghana/Qharny.svg" alt="ranking" />
+
+</p>
 
 ---
 
