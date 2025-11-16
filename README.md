@@ -6,7 +6,7 @@ I’m a passionate software engineer who thrives on building sleek, efficient, a
 From crafting elegant frontends to architecting robust backends, I love turning ideas into real, functional products.  
 When I’m not coding, I’m probably improvising on the saxophone 🎷 or learning something new in tech.
 
-<hr> 
+<hr>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=qharny&label=Profile%20views&color=0e75b6&style=flat" alt="Qharny" /> ..
