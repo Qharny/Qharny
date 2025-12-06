@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm **Manasseh Kabutey Kwame**
 
-🎯 *Software Engineer | Mobile & Web Developer | Saxophonist*  
+🎯 *Software Engineer | Mobile & Web Developer | Saxophonist* 
 
 I’m a passionate software engineer who thrives on building sleek, efficient, and impactful digital solutions.  
 From crafting elegant frontends to architecting robust backends, I love turning ideas into real, functional products.  
