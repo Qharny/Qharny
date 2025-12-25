@@ -89,7 +89,7 @@ When I’m not coding, I’m probably improvising on the saxophone 🎷 or learn
 </div>
 
 <div align="center">
-  <img src="https://hireAlens.netlify.apphttps://streak-stats.demolab.com/?user=qharny&theme=radical&hide_border=true" height="200" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=qharny&theme=radical&hide_border=true" height="200" alt="GitHub Streak" />
 </div>
 
 ---
