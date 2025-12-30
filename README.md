@@ -133,3 +133,8 @@ Currently exploring **AI integrations in mobile apps** and **modern web framewor
 
 💬 *"Feel free to explore my repositories, collaborate, or just hit me up to chat about tech, AI, or saxophone solos!"*  
 ⭐ *#Until there's no bug to fix 🙂‍↔👨🏽‍💻*
+
+
+
+<hr>
+https://streak-stats.demolab.com/?user=qharny
