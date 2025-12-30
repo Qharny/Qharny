@@ -89,7 +89,7 @@ When I’m not coding, I’m probably improvising on the saxophone 🎷 or learn
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=qharny" height="200" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=qharny)
 </div>
 
 ---
