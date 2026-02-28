@@ -27,7 +27,7 @@ I'm a software engineer focused on building **real-world systems** that solve pr
 🔌 IoT Systems          →   Arduino, ESP8266, Embedded Hardware
 ```
 
-Outside code? I play the **saxophone** 🎷 — because rhythm applies to software too. Clean structure. Timing. Flow. Improvisation when debugging.
+Outside code? I play the **saxophone** 🎷, because rhythm applies to software too. Clean structure. Timing. Flow. Improvisation when debugging.
 
 ---
 
