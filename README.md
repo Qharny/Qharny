@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a software engineer focused on building **real-world systems** that solve practical problems. I work across mobile, backend, AI, and hardware — and I care about shipping things that are clean, secure, and production-ready.
+I'm a software engineer focused on building **real-world systems** that solve practical problems. I work across mobile, backend, AI, and hardware and I care about shipping things that are clean, secure, and production-ready.
 
 ```
 📱 Mobile Development   →   Flutter / Dart
