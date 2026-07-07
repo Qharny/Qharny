@@ -83,37 +83,6 @@ Outside code? I play the **saxophone** 🎷, because rhythm applies to software 
 
 ---
 
-## 📌 Notable Projects
-
-### 🎓 Smart Attendance System
-> AI-powered facial recognition system for exam attendance management
-
-- 🧠 Student verification via face matching
-- 🏫 Class categorization by Faculty, Department & Programme
-- 📱 Flutter mobile app for students
-- 🖥️ Web admin dashboard
-- ☁️ Supabase backend
-
----
-
-### 🚗 Ride-Based App Architecture
-> Bolt-style ride system built from the ground up
-
-- 👥 Driver & Passenger role system
-- 🗺️ Real-time location & map integration
-- 🔔 Live notifications & updates
-
----
-
-### 🔥 IoT Smoke Detection System
-> End-to-end hardware + software fire safety solution
-
-- 🔌 ESP8266 + Arduino + MQ-5 sensor integration
-- 📱 Flutter app with device registration
-- 🚨 Real-time smoke alerts & monitoring
-
----
-
 ## 📊 Engineering Philosophy
 
 ```
