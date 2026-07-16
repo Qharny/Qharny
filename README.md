@@ -1,164 +1,127 @@
 <div align="center">
 
-# 👨🏽‍💻 Manasseh Kwame Kabutey
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Manasseh%20Kabutey&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Flutter%20%C2%B7%20Backend%20%C2%B7%20IoT%20%C2%B7%20Saxophonist&descAlignY=55&descSize=18" width="100%"/>
 
-**Software Engineer · Flutter & Backend Developer · IoT Builder · Saxophonist**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDAE&center=true&vCenter=true&width=600&lines=Building+real-world+systems+that+ship.;Flutter+%2B+Supabase+%2B+AI+%2B+Hardware.;Clean+code.+Good+timing.+Improvisation.;dart+run+life.dart+--release" alt="Typing SVG" />
 
-*Building scalable systems, intelligent apps, and hardware-powered solutions — one commit at a time.*
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=qharny&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Qharny)
-[![Ghana Private Rank](https://user-badge.committers.top/ghana_private/Qharny.svg)](https://github.com/Qharny)
-[![Ghana Public Rank](https://user-badge.committers.top/ghana_public/Qharny.svg)](https://github.com/Qharny)
+[![Portfolio](https://img.shields.io/badge/Portfolio-manassehkabutey.vercel.app-2c5364?style=flat-square&logo=vercel&logoColor=white)](https://manassehkabutey.vercel.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=qharny&label=views&color=38bdae&style=flat-square)](https://github.com/Qharny)
 [![Ghana Rank](https://user-badge.committers.top/ghana/Qharny.svg)](https://github.com/Qharny)
 
 </div>
 
----
+## `$ whoami`
 
-## 🚀 About Me
+```typescript
+const manasseh = {
+  location: "Ghana 🇬🇭",
+  role: "Software Engineer",
+  focus: ["Mobile", "Backend", "AI Apps", "IoT"],
 
-I'm a software engineer focused on building **real-world systems** that solve practical problems. I work across mobile, backend, AI, and hardware and I care about shipping things that are clean, secure, and production-ready.
+  daily_drivers: {
+    mobile:   ["Flutter", "Dart", "Riverpod"],
+    backend:  ["Node.js", "Supabase", "REST APIs", "PHP"],
+    hardware: ["Arduino", "ESP8266", "Embedded C"],
+  },
 
-```
-📱 Mobile Development   →   Flutter / Dart
-🌐 Backend & APIs       →   REST, Node.js, PHP, Supabase
-🔐 Auth & Architecture  →   JWT, RBAC, Database Design
-🤖 AI Applications      →   Intelligent, integrated systems
-🔌 IoT Systems          →   Arduino, ESP8266, Embedded Hardware
-```
-
-Outside code? I play the **saxophone** 🎷, because rhythm applies to software too. Clean structure. Timing. Flow. Improvisation when debugging.
-
----
-
-## 🧠 Current Focus
-
-- 🤖 Building **AI-powered Flutter applications**
-- 🏗️ Architecting scalable backend systems with **Supabase**
-- 🔌 Developing **hardware + software integrated IoT solutions**
-- 🌍 Open-sourcing intelligent, production-ready projects
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" title="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" title="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
-</p>
-
-### 📱 Mobile & Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-</p>
-
-### 🗄️ Backend, Databases & Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,git,github,linux,figma,postman,arduino" />
-</p>
-
-### 🔌 IoT & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
----
-
-## 📊 Engineering Philosophy
-
-```
-✅ Build it clean.
-✅ Make it scalable.
-✅ Secure it properly.
-✅ Document it.
-✅ Ship it.
+  philosophy: "Simple systems win long-term.",
+  when_stuck: () => grabSaxophone(), // 🎷 debugging, but jazz
+};
 ```
 
-> *Simple systems win long-term.*
+## `$ current --focus`
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📈 GitHub Stats
+**🤖 AI-Powered Flutter Apps**
+Intelligent mobile experiences — TTS, voice, and LLM-integrated features built for real users on real networks.
+
+**🏗️ Scalable Backends**
+Supabase-first architecture: RLS, auth flows, JWT, RBAC, and database design that doesn't fall over.
+
+</td>
+<td width="50%" valign="top">
+
+**🔌 Hardware × Software**
+IoT systems where firmware meets the cloud — biometrics, sensors, and embedded builds.
+
+**🌍 Built for Africa**
+Offline-first design, Mobile Money integration, and apps that respect 2G/3G realities.
+
+</td>
+</tr>
+</table>
+
+## `$ stack --list`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qharny&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qharny&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,ts,js,python,php,kotlin,java,nextjs,tailwind&perline=10" />
+
+**Backend, Data & Cloud**
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,mysql,mongodb,aws,docker,vercel,netlify,linux&perline=10" />
+
+**Tools & Hardware**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,arduino,raspberrypi,cpp&perline=8" />
+
+</div>
+
+## `$ git stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Qharny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdae&icon_color=38bdae" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qharny&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdae&langs_count=8" height="165" alt="languages" />
+
+<img src="https://streak-stats.demolab.com?user=qharny&theme=tokyonight&hide_border=true&background=00000000&ring=38bdae&fire=38bdae&currStreakLabel=38bdae" height="165" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qharny&theme=tokyo-night&hide_border=true&bg_color=00000000&color=38bdae&line=38bdae&point=ffffff&area=true&area_color=38bdae" width="95%" alt="activity graph" />
+
+<!-- Contribution snake — see setup note -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qharny/Qharny/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Qharny/Qharny/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</picture>
+
+</div>
+
+## `$ cat philosophy.txt`
+
+> **Build it clean. Make it scalable. Secure it properly. Document it. Ship it.**
+>
+> Engineering and music aren't different worlds — both are structure meeting creativity.
+> Rhythm applies to software: clean structure, good timing, flow, and improvisation when debugging. 🎷
+
+## `$ connect --all`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-kabuteymanasseh5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabuteymanasseh5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manasseh_Kabutey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasseh-kabutey/)
+[![Twitter](https://img.shields.io/badge/X-@mr__kabuteyy-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mr_kabuteyy)
+[![Instagram](https://img.shields.io/badge/Instagram-@mr__kabuteyy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_kabuteyy)
+[![YouTube](https://img.shields.io/badge/YouTube-Bugless_Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BuglessTech)
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=qharny&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qharny&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
-</div>
+```
+if (!compiles) debug();
+else if (!runs) refactor();
+else if (stillFailing) playSaxophone(); // 🎷 think again
+```
 
----
+**#Until there's no bug to fix** 👨🏽‍💻
 
-## 🎷 Beyond Code
-
-Music sharpens discipline. Improvisation improves problem-solving.
-
-Engineering and music aren't different worlds — they're both about **structure** and **creativity**.
-
----
-
-## 🌍 Let's Connect
-
-<p align="center">
-  <a href="mailto:kabuteymanasseh5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/manasseh-kabutey/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/mr_kabuteyy" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/mr_kabuteyy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@BuglessTech" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube – Bugless Tech"/>
-  </a>
-  <a href="https://manassehkabutey.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> If it doesn't compile, I debug.
-> If it doesn't run, I refactor.
-> If it still fails… I grab the sax and think again. 🎷
-
----
-
-<div align="center">
-
-**#Until there's no bug to fix** 🙂‍↔️ 👨🏽‍💻
-
-*"Feel free to explore my repositories, collaborate, or just hit me up to chat about tech, AI, or saxophone solos!"*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
 
 </div>
