@@ -18,11 +18,12 @@
 const manasseh = {
   location: "Ghana 🇬🇭",
   role: "Software Engineer",
-  focus: ["Mobile", "Backend", "AI Apps", "IoT"],
+  focus: ["Mobile", "Backend", "AI Apps", "IoT", "web"],
 
   daily_drivers: {
     mobile:   ["Flutter", "Dart", "Riverpod"],
-    backend:  ["Node.js", "Supabase", "REST APIs", "PHP"],
+    web:      ["Next.js", "React", "HTML", "CSS", "Tailwind", "JavaScript"],
+    backend:  ["Node.js", "Supabase", "REST APIs", "PHP", "Mongodb", "Mysql"],
     hardware: ["Arduino", "ESP8266", "Embedded C"],
   },
 
