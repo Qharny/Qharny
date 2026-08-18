@@ -16,7 +16,7 @@
 
 ```typescript
 const manasseh = {
-  location: "Ghana 🇬🇭",
+  location: "Milky Way Galaxy",
   role: "Software Engineer",
   focus: ["Mobile", "Backend", "AI Apps", "IoT", "web"],
 
