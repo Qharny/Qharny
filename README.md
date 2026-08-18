@@ -86,7 +86,7 @@ Offline-first design, Mobile Money integration, and apps that respect 2G/3G real
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qharny&theme=tokyo-night&hide_border=true&bg_color=00000000&color=38bdae&line=38bdae&point=ffffff&area=true&area_color=38bdae" width="95%" alt="activity graph" />
 
-<!-- Contribution snake — see setup note -->
+<!-- Contribution snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qharny/Qharny/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/Qharny/Qharny/output/github-contribution-grid-snake.svg" alt="snake animation" />
