@@ -75,6 +75,34 @@ Offline-first design, Mobile Money integration, and apps that respect 2G/3G real
 
 </div>
 
+## `$ ls projects/ --featured`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🗜️ [zip_extractor](https://github.com/Qharny/zip_extractor)**
+A Dart CLI tool to extract multiple ZIP files at once.
+`Dart` · ⭐ 10
+
+</td>
+<td width="33%" valign="top">
+
+**🎨 [build-your-own-flutter-ui](https://github.com/Qharny/build-your-own-flutter-ui)**
+Hands-on Flutter UI recipes for building real interfaces from scratch.
+`Flutter` · ⭐ 3
+
+</td>
+<td width="33%" valign="top">
+
+**🥁 [RuutAfrica](https://github.com/Qharny/RuutAfrica)**
+Exploring Ghanaian culture through Kaba and Slit design.
+`CSS` · Culture × Code
+
+</td>
+</tr>
+</table>
+
 ## `$ git stats`
 
 <div align="center">
