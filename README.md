@@ -80,12 +80,10 @@ Offline-first design, Mobile Money integration, and apps that respect 2G/3G real
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Qharny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdae&icon_color=38bdae" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qharny&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdae&langs_count=8" height="165" alt="languages" />
+<img src="https://raw.githubusercontent.com/Qharny/Qharny/output/profile-summary-card-output/tokyonight/3-stats.svg" height="165" alt="stats" />
+<img src="https://raw.githubusercontent.com/Qharny/Qharny/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="165" alt="languages" />
 
 <img src="https://streak-stats.demolab.com?user=qharny&theme=tokyonight&hide_border=true&background=00000000&ring=38bdae&fire=38bdae&currStreakLabel=38bdae" height="165" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qharny&theme=tokyo-night&hide_border=true&bg_color=00000000&color=38bdae&line=38bdae&point=ffffff&area=true&area_color=38bdae" width="95%" alt="activity graph" />
 
 <!-- Contribution snake -->
 <picture>
