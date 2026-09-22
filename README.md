@@ -122,6 +122,14 @@ Exploring Ghanaian culture through Kaba and Slit design.
 
 </div>
 
+## `$ fortune --dev`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
+
 ## `$ cat philosophy.txt`
 
 > **Build it clean. Make it scalable. Secure it properly. Document it. Ship it.**
