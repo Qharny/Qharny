@@ -107,7 +107,7 @@ Exploring Ghanaian culture through Kaba and Slit design.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Qharny/Qharny/main/profile-summary-card-output/tokyonight/3-stats.svg" height="165" alt="stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=qharny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" height="165" alt="stats" />
 <img src="https://raw.githubusercontent.com/Qharny/Qharny/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="165" alt="languages" />
 
 [![trophy](https://github-trophies.vercel.app/?username=Qharny&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
