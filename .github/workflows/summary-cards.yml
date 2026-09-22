@@ -25,7 +25,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "output"
+          BRANCH_NAME: "main"
           UTC_OFFSET: 0
           AUTO_PUSH: true
           THEME: "tokyonight"
