@@ -110,12 +110,14 @@ Exploring Ghanaian culture through Kaba and Slit design.
 <img src="https://raw.githubusercontent.com/Qharny/Qharny/output/profile-summary-card-output/tokyonight/3-stats.svg" height="165" alt="stats" />
 <img src="https://raw.githubusercontent.com/Qharny/Qharny/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="165" alt="languages" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Qharny&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src="https://streak-stats.demolab.com?user=qharny&theme=tokyonight&hide_border=true&background=00000000&ring=38bdae&fire=38bdae&currStreakLabel=38bdae" height="165" alt="streak" />
 
 <!-- Contribution snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qharny/Qharny/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Qharny/Qharny/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qharny/Qharny/snake/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Qharny/Qharny/snake/github-contribution-grid-snake.svg" alt="snake animation" />
 </picture>
 
 </div>
